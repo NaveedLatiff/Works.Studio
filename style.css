@@ -55,7 +55,7 @@ nav .part-2 a {
     line-height: 3.5vw;
     font-family: 'Times New Roman', Times, serif;
     z-index: 3;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .main-heading p .p-left {
